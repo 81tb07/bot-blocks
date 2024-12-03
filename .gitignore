@@ -1,0 +1,27 @@
+lerna-debug.log*
+
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+.vscode/extensions.json
+.editorconfig
+.eslintcache
+
+.DS_Store
+/node_modules
